@@ -15,37 +15,40 @@ import {
  
  const defaultMenu = {
   before: `
-  「 ${botname} あ⁩ 」\n
+  *${botname}* \n
   *%ucpn*
  
-╔════════════
-║*Name:* %name
-║*Gold:* %credit
-║*Role:* %role
-║*Level:* %level [ %xp4levelup Xp For Levelup]
-║*Xp:* %exp / %maxexp
-║*Total Xp:* %totalexp
-╚════════════
-╔════════════
-║*Bot Name:* ${botname}
-║*Mode:* %mode
-║*Platform:* %platform
-║*Type:* NodeJs
-║*Baileys:* Multi Device
-║*Prefix:* [ *%_p* ]
-║*Uptime:* %muptime
-║*Database:*  %totalreg
-╚════════════
+ 
+┍━━━━━━━━━━━━━━━━━━ •
+┃*🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋*
+┗━━━━━━━━━━━━━━━━━━ •
+┍━━━━━━━━━━━━━━━━━━ •
+┃💞*Name:* %name
+┃🌟*Gold:* %credit
+┃🌐*Role:* %role
+┃🧿*Level:* %level [ %xp4levelup Xp For Levelup]
+┃🔑*Xp:* %exp / %maxexp
+┃🛠️*Total Xp:* %totalexp
+┗━━━━━━━━━━━━━━━━━━ •
+┍━━━━━━━━━━━━━━━━━━ •
+┃🛡️*Bot Name:* ${botname}
+┃📌*Mode:* %mode
+┃📚*Platform:* %platform
+┃🗒️*Type:* NodeJs
+┃📣*Prefix:* [ *%_p* ]
+┃📤*Uptime:* %muptime
+┃📥*Database:*  %totalreg
+┗━━━━━━━━━━━━━━━━━━ •
   
-╔════════════
-║*%totalfeatures* Commands
-╚════════════
+┍━━━━━━━━━━━━━━━━━━ •
+┃*%totalfeatures* Commands
+┗━━━━━━━━━━━━━━━━━━ •
  %readmore
  `.trimStart(),
- header: "*%category*",
- body: "%cmd %isPremium %islimit",
- footer: "════════════",
- after: "\n%me",
+ header: "✢━━━*%category━━━*",
+ body: "   ✢ %cmd %isPremium %islimit",
+ footer: " ✢━━━━━━━━━━━━━━━━━━━━",
+ after: "\n\n🦋│𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂🦋",
  }
  let handler = async (m, {
   conn,

@@ -14,13 +14,8 @@ lkr = "*🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂
 "🧿 *" + usedPrefix + "ownermenu*\n\n\n\n" +
 "🌝 *" + usedPrefix + "groupmenu*\n\n\n\n" +
 "📥 *" + usedPrefix + "dlmenu*\n\n\n\n" +
-"🤭 *" + usedPrefix + "funmenu*\n\n\n\n" +
-"💯 *" + usedPrefix + "economymenu*\n\n\n\n" +
-"🎮 *" + usedPrefix + "gamemenu*\n\n\n\n" +
 "🌀 *" + usedPrefix + "stickermenu*\n\n\n\n" +
-"🧰 *" + usedPrefix + "toolmenu*\n\n\n\n" +
-"😈 *" + usedPrefix + "logomenu*\n\n\n\n" +
-"💞 *" + usedPrefix + "nsfwmenu* 🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋";
+"💞 *" + usedPrefix + "*🦋│𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂🦋";
 break;
 
           
@@ -44,7 +39,7 @@ break;
    ⎪🦋 _${usedPrefix}groups_
    ⎪🦋 _${usedPrefix}blocklist_
    ⎪🦋 _${usedPrefix}listprem_
-   ⎪🦋    Guru
+   ⎪🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋
    ┗━━━✢✢━━━┛`; // Your bot menu message here
           break;
         case 'ownermenu':
@@ -114,111 +109,6 @@ break;
    ⎪🦋 _${usedPrefix}facebook <link>_
    ┗━━━✢✢━━━┛`; // 
           break;
-          case 'economymenu':
-          lkr = `❀° ┄──•••───╮
-          𝙀𝘾𝙊𝙉𝙊𝙈𝙔 
-   ╰───•••──┄      
-   ┏━━━✢✢━━━┓
-   ⎪🦋 _${usedPrefix}claim/daily_
-   ⎪🦋 _${usedPrefix}weekly_
-   ⎪🦋 _${usedPrefix}monthly_
-   ⎪🦋 _${usedPrefix}leaderboard_
-   ⎪🦋 _${usedPrefix}bet_
-   ⎪🦋 _${usedPrefix}heal_
-   ⎪🦋 _${usedPrefix}craft_
-   ⎪🦋 _${usedPrefix}balance_
-   ⎪🦋 _${usedPrefix}shop_
-   ⎪🦋 _${usedPrefix}sell_
-   ⎪🦋 _${usedPrefix}adventure_
-   ⎪🦋 _${usedPrefix}opencrate_
-   ⎪🦋 _${usedPrefix}mine_
-   ⎪🦋 _${usedPrefix}work_
-   ⎪🦋 _${usedPrefix}transfer_
-   ⎪🦋 _${usedPrefix}todiamond_
-   ⎪🦋 _${usedPrefix}tomoney_
-   ┗━━━✢✢━━━┛`; // 
-          break;
-          case 'funmenu':
-          lkr = `❀° ┄──•••───╮
-          𝙁𝙐𝙉 𝙈𝙀𝙉𝙐
-    ╰───•••──┄      
-    ┏━━━✢✢━━━┓
-    ⎪🦋 _${usedPrefix}character_
-    ⎪🦋 _${usedPrefix}truth_
-    ⎪🦋 _${usedPrefix}dare_
-    ⎪🦋 _${usedPrefix}flirt_
-    ⎪🦋 _${usedPrefix}gay_
-    ⎪🦋 _${usedPrefix}shayeri_
-    ⎪🦋 _${usedPrefix}ship_
-    ⎪🦋 _${usedPrefix}waste_
-    ⎪🦋 _${usedPrefix}simpcard_
-    ⎪🦋 _${usedPrefix}hornycard_
-    ⎪🦋 _${usedPrefix}ytcomment_
-    ⎪🦋 _${usedPrefix}stupid_
-    ⎪🦋 _${usedPrefix}lolicon_
-    ┗━━━✢✢━━━┛`; // 
-          break;
-          case 'animemenu':
-          lkr = `❀° ┄──•••───╮
-          𝐴𝑁𝐼𝑀𝐸 𝑀𝐸𝑁𝑈
-    ╰───•••──┄      
-    ┏━━━✢✢━━━┓
-    ⎪🦋 _${usedPrefix}waifu_
-    ⎪🦋 _${usedPrefix}neko_
-    ⎪🦋 _${usedPrefix}loli_
-    ⎪🦋 _${usedPrefix}couplepp_
-    ⎪🦋 _${usedPrefix}toanime_
-    ⎪🦋 _${usedPrefix}naruto_
-    ⎪🦋 _${usedPrefix}itachi_
-    ⎪🦋 _${usedPrefix}akira_
-    ⎪🦋 _${usedPrefix}asuna_
-    ⎪🦋 _${usedPrefix}akiyama_
-    ⎪🦋 _${usedPrefix}boruto_
-    ⎪🦋 _${usedPrefix}hornycard_
-    ⎪🦋 _${usedPrefix}ayuzawa_
-    ⎪🦋 _${usedPrefix}anna_
-    ⎪🦋 _${usedPrefix}chiho_
-    ⎪🦋 _${usedPrefix}chitoge_
-    ⎪🦋 _${usedPrefix}deidara_
-    ⎪🦋 _${usedPrefix}erza_
-    ⎪🦋 _${usedPrefix}elaina_
-    ⎪🦋 _${usedPrefix}emilia_
-    ⎪🦋 _${usedPrefix}hestia_
-    ⎪🦋 _${usedPrefix}hinata_
-    ⎪🦋 _${usedPrefix}inori_
-    ⎪🦋 _${usedPrefix}isuzu_
-    ⎪🦋 _${usedPrefix}kagura_
-    ⎪🦋 _${usedPrefix}kaori_
-    ⎪🦋 _${usedPrefix}keneki_
-    ⎪🦋 _${usedPrefix}kurumi_
-    ⎪🦋 _${usedPrefix}madara_
-    ⎪🦋 _${usedPrefix}mikasa_
-    ⎪🦋 _${usedPrefix}miku_
-    ⎪🦋 _${usedPrefix}minato_
-    ⎪🦋 _${usedPrefix}nezuko_
-    ⎪🦋 _${usedPrefix}sagiri_
-    ⎪🦋 _${usedPrefix}sasuke_
-    ⎪🦋 _${usedPrefix}sakura_
-    ⎪🦋 _${usedPrefix}kotori_
-    ┗━━━✢✢━━━┛
-    `; 
-          break;
-          case 'gamemenu':
-          lkr = `❀° ┄──•••───╮
-          𝙂𝘼𝙈𝙀 𝙈𝙀𝙉𝙐 
-    ╰───•••──┄      
-    ┏━━━✢✢━━━┓
-    ⎪🦋 _${usedPrefix}tictactoe_
-    ⎪🦋 _${usedPrefix}delttt_
-    ⎪🦋 _${usedPrefix}math_
-    ⎪🦋 _${usedPrefix}math answer_
-    ⎪🦋 _${usedPrefix}ppt_
-    ⎪🦋 _${usedPrefix}slot_
-    ⎪🦋 _${usedPrefix}casino_
-    ⎪🦋 _${usedPrefix}yourmom_
-    ⎪🦋 _${usedPrefix}teri mummy_
-    ┗━━━✢✢━━━┛`; // 
-          break;
           case 'stickermenu':
           lkr = `❀° ┄──•••───╮
           𝙎𝙏𝙄𝘾𝙆𝙀𝙍 𝙈𝙀𝙉𝙐
@@ -239,43 +129,6 @@ break;
      ⎪🦋 _${usedPrefix}attp2_
      ⎪🦋 _${usedPrefix}attp3_
      ┗━━━✢✢━━━┛`; 
-          break;
-          case 'toolmenu':
-          lkr = `❀° ┄──•••───╮
-          𝙏𝙊𝙊𝙇𝙎 𝙈𝙀𝙉𝙐
-     ╰───•••──┄      
-     ┏━━━✢✢━━━┓
-     ⎪🦋 _${usedPrefix}autosticker_
-     ⎪🦋 _${usedPrefix}pdf_
-     ⎪🦋 _${usedPrefix}whatmusic_
-     ⎪🦋 _${usedPrefix}calc_
-     ⎪🦋 _${usedPrefix}google_
-     ⎪🦋 _${usedPrefix}lyrics_
-     ⎪🦋 _${usedPrefix}readmore_
-     ⎪🦋 _${usedPrefix}ssweb_
-     ⎪🦋 _${usedPrefix}tts_
-     ⎪🦋 _${usedPrefix}translate_
-     ⎪🦋 _${usedPrefix}tourl_
-     ⎪🦋 _${usedPrefix}wikipedia_
-     ⎪🦋 _${usedPrefix}nowa_
-     ⎪🦋 _${usedPrefix}qrmaker_
-     ⎪🦋 _${usedPrefix}readqr_
-     ⎪🦋 _${usedPrefix}fancy_
-     ⎪🦋 _${usedPrefix}weather_
-     ⎪🦋 _${usedPrefix}siri_
-     ⎪🦋 _${usedPrefix}alexa_
-     ⎪🦋 _${usedPrefix}dalle_
-     ⎪🦋 _${usedPrefix}tocartoon_
-     ⎪🦋 _${usedPrefix}quote_
-     ⎪🦋 _${usedPrefix}technews_
-     ⎪🦋 _${usedPrefix}define_
-     ⎪🦋 _${usedPrefix}pokedex_
-     ⎪🦋 _${usedPrefix}removebg_
-     ⎪🦋 _${usedPrefix}apk_
-     ⎪🦋 _${usedPrefix}tinyurl/shorturl_
-     ⎪🦋 _${usedPrefix}readvo_
-     ⎪🦋 _${usedPrefix}true_
-     ┗━━━✢✢━━━┛`; // 
           break;
           case 'nsfwmenu':
           lkr = `use command ${usedPrefix}nsfw`; // 
