@@ -11,12 +11,9 @@
 <a href='https://replit.com/@Gurucharan-saho/GURU-BOT-PAIR?v=1' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
-#### DEPLOY TO HEROKU
+___________
 
-3. If You don't have an account in Heroku. Create a account.
-    <br>
-<p align="center"><a href="https://signup.heroku.com"> <img src="https://img.shields.io/badge/heroku%20Account-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CYBER-x-SACHIYA-SL-MD-BOT/CYBER-PANDA-MD-)
 
-2. Watch the following video tutorial, for assistance.
-    <br>
-<p align="center"><a href="https://youtu.be/yfdzckCcbPk?si=doxesZtn87BepUBw"> <img src="https://img.shields.io/badge/heroku%20Tutorial-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+___________
