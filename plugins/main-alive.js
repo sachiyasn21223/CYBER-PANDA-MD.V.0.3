@@ -14,7 +14,6 @@ let handler = async(m, { conn, text, usedPrefix, command }) => {
           url: vn
         },
         mimetype: 'audio/mpeg',
-        ptt: true,
         waveform:  [100, 0, 100, 0, 100, 0, 100],
         fileName: "Guru",
     
