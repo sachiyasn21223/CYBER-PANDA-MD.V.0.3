@@ -9,7 +9,7 @@ ___________
 
 ➁. 𝘊𝘠𝘉𝘌𝘙-𝘗𝘈𝘕𝘋𝘈-𝘔𝘋 𝘍𝘖𝘙𝘒𝘚 📌
     <br>
-<a href='https://github.com/CYBER-x-SACHIYA-SL-MD-BOT/CYBER-PANDA-MD.V.0.3/forks' target="_blank"><img alt='𝘊𝘠𝘉𝘌𝘙-𝘗𝘈𝘕𝘋𝘈-𝘔𝘋 𝘍𝘖𝘙𝘒𝘚 📌' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/CYBER-x-SACHIYA-SL-MD-BOT/CYBER-PANDA-MD.V.0.3/forks' target="_blank"><img alt='𝘊𝘠𝘉𝘌𝘙-𝘗𝘈𝘕𝘋𝘈-𝘔𝘋 𝘍𝘖𝘙𝘒𝘚 📌' src='https://img.shields.io/badge/හායි-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 ___________
 
 ➂. 𝘊𝘠𝘉𝘌𝘙-𝘗𝘈𝘕𝘋𝘈-𝘔𝘋 𝘋𝘌𝘗𝘓𝘖𝘠 𝘏𝘌𝘙𝘖𝘒𝘜 🌐
