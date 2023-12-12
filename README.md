@@ -35,8 +35,11 @@ ______________________
 <a href="https://youtu.be/amorCyDpKIo?si=VIw9mxSA5ruc6UKi"><img align="center" src="https://i.imgur.com/6Rh7HHb.jpg" alt="DEPLOY" height="110" width="200" /></a>
    
 
+ [`𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@Panda-22-SL/oror-1?v=1)
 
 
+
+[`Deploy on heroku`](https://heroku.com/deploy?template=https://github.com/CYBER-x-SACHIYA-SL-MD-BOT/CYBER-PANDA-MD.V.0.3)
 
 
       ``⚠️ We are not responsible for any inconvenience caused by your mistakes!   | ඔබගේ අත්වැරදීම් නිසා සිදුවන අපහසුතාවයන් සඳහා අප වගකිවයනු නොලැබේ.´´
