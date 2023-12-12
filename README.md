@@ -1,8 +1,9 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000BFF&random=false&width=435&lines=%F0%9D%98%93%F0%9D%98%96%F0%9D%98%88%F0%9D%98%8B%F0%9D%98%90%F0%9D%98%95%F0%9D%98%8E%3A+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25;%F0%9F%A6%8B+%E2%94%82%F0%9D%90%82%F0%9D%90%98%F0%9D%90%81%F0%9D%9C%A9%F0%9D%90%91%E2%94%82%F0%9D%90%8F%F0%9D%9C%9F%F0%9D%90%8D%F0%9D%90%83%F0%9D%90%80%E2%94%82%F0%9D%90%8C%F0%9D%90%83%E2%94%82%F0%9D%90%95%E2%9E%82+%F0%9F%A6%8B)](https://git.io/typing-svg)
 
 
-## DEPLOY STEPS 𝘉𝘠 𝘚𝘛𝘌𝘗𝘚
- 
+## DEPLOY STEPS BY STEPS
+__________
+
 ➀. Fork This Repository 
 ➁. Update [config.js]()
 ➂. Make acount on your host
@@ -24,16 +25,17 @@
 <p align="center">
 <a href="#"><img title="bot-Creator" src="https://img.shields.io/badge/Creator-Sachith.Chandra-red.svg?style=for-the-badge&logo=github"></a>
 </p>
+<p align="center"> 
+<u>🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋</u>
+</p>
 
-🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋
-
-* [𝘠𝘖𝘜-𝘛𝘜𝘉𝘌-𝘝𝘐𝘋𝘌𝘖](https://youtu.be/amorCyDpKIo?si=VebhbHXCe53xct3X)
+* [🐼𝘠𝘖𝘜-𝘛𝘜𝘉𝘌-𝘝𝘐𝘋𝘌𝘖🐼](https://youtu.be/amorCyDpKIo?si=VebhbHXCe53xct3X)
 
 * [💞 𝘑𝘖𝘐𝘕 𝘗𝘜𝘉𝘓𝘐𝘊 𝘎𝘙𝘖𝘜𝘗 💞](https://chat.whatsapp.com/FiVM7anDmin0qnLqWwkgev)
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&random=false&width=435&lines=%F0%9D%98%93%F0%9D%98%96%F0%9D%98%88%F0%9D%98%8B%F0%9D%98%90%F0%9D%98%95%F0%9D%98%8E%3A+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25)](https://git.io/typing-svg)
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0004FF&random=false&width=435&lines=Deploy+on+Heroku+Video+%F0%9F%A6%8B)](https://git.io/typing-svg)
- # * Deploy on Heroku Video 👇
+ ## Deploy on Heroku Video 👇
  __________
  <p align="left">
 <a href="https://youtu.be/amorCyDpKIo?si=VIw9mxSA5ruc6UKi"><img align="center" src="https://i.imgur.com/6Rh7HHb.jpg" alt="DEPLOY" height="110" width="200" /></a>
