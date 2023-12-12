@@ -37,7 +37,6 @@ ______________________
 </p>
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=➄+➃+➂+➁+➀" alt="">
-</p>
    
     <br>
 <a href='https://replit.com/@Panda-22-SL/oror-1?v=1' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
