@@ -25,34 +25,12 @@
 <p align="center">
 <a href="#"><img title="bot-Creator" src="https://img.shields.io/badge/Creator-Sachith.Chandra-red.svg?style=for-the-badge&logo=github"></a>
 </p>
-    
-<p>
-</details>
-<details>
-<summary>ℹ📌 How To Update </summary>
-<p>
-</details>
-🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋
-<details>
-<summary>🦋 Support For Deploy </summary>
-<p>
-</details>
+---------------------------
 🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋
 
 * [𝘠𝘖𝘜-𝘛𝘜𝘉𝘌-𝘝𝘐𝘋𝘌𝘖](https://youtu.be/amorCyDpKIo?si=VebhbHXCe53xct3X)
 
-* [🦄 Join Public Group 🦄](https://chat.whatsapp.com/BbIpvkRD4qP6xKckb8cpT0)
+* [💞 𝘑𝘖𝘐𝘕 𝘗𝘜𝘉𝘓𝘐𝘊 𝘎𝘙𝘖𝘜𝘗 💞](https://chat.whatsapp.com/FiVM7anDmin0qnLqWwkgev)
 
      
-       ⚠️ We are not responsible for any inconvenience caused by your mistakes!   | ඔබගේ අත්වැරදීම් නිසා සිදුවන අපහසුතාවයන් සඳහා අප වගකිවයනු නොලැබේ !
-
-  
-  #### ```TOTAL PROFILE VIEWS 🧚```
-![Visitor Count](https://profile-counter.glitch.me/DarkMakerofc/count.svg)
-
-<h1>💗</h1> 
-<b>Thanks For</b> -
-
- [thashi 💖]() for Voice ,[slrealtech](https://youtube.com/slrealtech) , [darkalpha](http://github.com/darkalphaxteam) and [isuru]() thanks for helps 💖
-
- ## [ WHATSAPP GROUPS ](https://github.com/DarkMakerofc/groups#README.md)
+      ``⚠️ We are not responsible for any inconvenience caused by your mistakes!   | ඔබගේ අත්වැරදීම් නිසා සිදුවන අපහසුතාවයන් සඳහා අප වගකිවයනු නොලැබේ.´´
