@@ -1,13 +1,11 @@
-# 
-#
-+ DEPLOY STEPS
-# 
-1. Fork This Repository 
-2. Update [settings.js]()
-3. Uplode creds.json file to sessions folder
-4. Make acount on your host
-5. Connect Your Repository to your web host site
-6. [Watch Videos](http://youtube.com/mrnimaofc)
+
+## DEPLOY STEPS 𝘉𝘠 𝘚𝘛𝘌𝘗𝘚
+ 
+➀. Fork This Repository 
+➁. Update [config.js]()
+➂. Make acount on your host
+➃. Connect Your Repository to your web host site
+➄. [Watch Videos](https://youtu.be/amorCyDpKIo?si=BR2yG4lG4RCHSWRs)
 
 <p align="center"> 
 <u>🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋</u>
@@ -25,7 +23,7 @@
 <p align="center">
 <a href="#"><img title="bot-Creator" src="https://img.shields.io/badge/Creator-Sachith.Chandra-red.svg?style=for-the-badge&logo=github"></a>
 </p>
----------------------------
+______________________
 🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋
 
 * [𝘠𝘖𝘜-𝘛𝘜𝘉𝘌-𝘝𝘐𝘋𝘌𝘖](https://youtu.be/amorCyDpKIo?si=VebhbHXCe53xct3X)
