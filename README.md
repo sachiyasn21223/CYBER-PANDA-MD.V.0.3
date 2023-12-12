@@ -30,5 +30,13 @@ ______________________
 
 * [💞 𝘑𝘖𝘐𝘕 𝘗𝘜𝘉𝘓𝘐𝘊 𝘎𝘙𝘖𝘜𝘗 💞](https://chat.whatsapp.com/FiVM7anDmin0qnLqWwkgev)
 
-     
+ # * Deploy on Heroku Video 👇
+ <p align="left">
+<a href="https://youtu.be/amorCyDpKIo?si=VIw9mxSA5ruc6UKi"><img align="center" src="https://i.imgur.com/6Rh7HHb.jpg" alt="DEPLOY" height="110" width="200" /></a>
+   
+
+
+
+
+
       ``⚠️ We are not responsible for any inconvenience caused by your mistakes!   | ඔබගේ අත්වැරදීම් නිසා සිදුවන අපහසුතාවයන් සඳහා අප වගකිවයනු නොලැබේ.´´
