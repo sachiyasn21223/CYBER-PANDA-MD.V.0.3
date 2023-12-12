@@ -1,29 +1,13 @@
-# CYBER-PANDA-MD.V.0.3
-__________
-![IMG-20231206-WA0042](https://github.com/CYBER-x-SACHIYA-SL-MD-BOT/CYBER-PANDA-MD.V.0.3/assets/133668461/1f9ce998-691d-4394-ae3e-be7f3f51d4c6)
-
-➀. 𝘚𝘌𝘚𝘚𝘐𝘖𝘕 𝘐𝘋 (𝘚𝘌𝘙𝘝𝘌𝘙 01) 🛡️ 
-    <br>
-<a href='https://replit.com/@Panda-22-SL/oror-1?v=1' target="_blank"><img alt='𝘚𝘌𝘚𝘚𝘐𝘖𝘕_𝘐𝘋_(𝘚𝘌𝘙𝘝𝘌𝘙_01)' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
-___________
-
-➁. 𝘊𝘠𝘉𝘌𝘙-𝘗𝘈𝘕𝘋𝘈-𝘔𝘋 𝘍𝘖𝘙𝘒𝘚 📌
-    <br>
-<a href='https://github.com/CYBER-x-SACHIYA-SL-MD-BOT/CYBER-PANDA-MD.V.0.3/forks' target="_blank"><img alt='𝘊𝘠𝘉𝘌𝘙-𝘗𝘈𝘕𝘋𝘈-𝘔𝘋 𝘍𝘖𝘙𝘒𝘚 📌' src='https://img.shields.io/badge/𝘊𝘠𝘉𝘌𝘙_𝘗𝘈𝘕𝘋𝘈_𝘔𝘋_𝘍𝘖𝘙𝘒𝘚-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
-___________
-
-➂. 𝘊𝘠𝘉𝘌𝘙-𝘗𝘈𝘕𝘋𝘈-𝘔𝘋 𝘋𝘌𝘗𝘓𝘖𝘠 𝘏𝘌𝘙𝘖𝘒𝘜 🌐
-    <br>
-<a href='https://heroku.com/deploy?template=https://github.com/CYBER-x-SACHIYA-SL-MD-BOT/CYBER-PANDA-MD.V.0.3' target="_blank"><img alt='𝘊𝘠𝘉𝘌𝘙-𝘗𝘈𝘕𝘋𝘈-𝘔𝘋 𝘋𝘌𝘗𝘓𝘖𝘠 𝘏𝘌𝘙𝘖𝘒𝘜' src='https://img.shields.io/badge/𝘊𝘠𝘉𝘌𝘙_𝘗𝘈𝘕𝘋𝘈_𝘔𝘋_𝘋𝘌𝘗𝘓𝘖𝘠_𝘏𝘌𝘙𝘖𝘒𝘜-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
-
-____________
-# CYBER-PANDA-MD.V.0.3
-____________
-
-
-
-
-
+# 
+#
++ DEPLOY STEPS
+# 
+1. Fork This Repository 
+2. Update [settings.js]()
+3. Uplode creds.json file to sessions folder
+4. Make acount on your host
+5. Connect Your Repository to your web host site
+6. [Watch Videos](http://youtube.com/mrnimaofc)
 
 <p align="center"> 
 <u>🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋</u>
@@ -35,7 +19,11 @@ ____________
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=🦋+│𝐂𝐘𝐁𝜩𝐑+│𝐏𝜟𝐍𝐃𝐀+│𝐌𝐃+│𝐕➂🦋" alt="">
 </p>
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Mrnima-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="bot-Creator" src="https://img.shields.io/badge/Creator-Mrnima-red.svg?style=for-the-badge&logo=github"></a>
+</p>
+</p>
+<p align="center">
+<a href="#"><img title="bot-Creator-Sapotet" src="https://img.shields.io/badge/Creator-Mrnima-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/darkmakerofc?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/AlipBot?color=green&style=flat-square"></a>
