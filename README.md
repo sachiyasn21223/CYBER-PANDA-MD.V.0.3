@@ -2,14 +2,11 @@
 # CYBER-PANDA-MD.V.0.3
 
 
-1. Get Session ID (Server 1)
-    <br>
-<a href='https://session.guruapi.tech' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
-2. Get Session ID (Server 2) (use this if server 1 Doesn't work)
+1. Get Session ID (Server 2) (use this if server 1 Doesn't work)
     <br>
-<a href='https://replit.com/@Gurucharan-saho/GURU-BOT-PAIR?v=1' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://replit.com/@Panda-22-SL/oror-1?v=1' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 ___________
