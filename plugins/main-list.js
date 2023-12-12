@@ -23,49 +23,36 @@ break;
         
 
         case 'botmenu':
-          lkr = `┄──•••───╮
-          *𝘉𝘖𝘛 𝘔𝘌𝘕𝘜*  
+          lkr = `
+    ┄──•••───╮
+     *𝘉𝘖𝘛 𝘔𝘌𝘕𝘜*  
    ╰───•••──┄      
-   ┏━━━✢✢━━━┓
-   ⎪🦋 _${usedPrefix}gita_
+  ┏━━━━━━━━━━
    ⎪🦋 _${usedPrefix}ping_
    ⎪🦋 _${usedPrefix}uptime_
-   ⎪🦋 _${usedPrefix}bot_
-   ⎪🦋 _${usedPrefix}owner_
    ⎪🦋 _${usedPrefix}script_
    ⎪🦋 _${usedPrefix}runtime_
-   ⎪🦋 _${usedPrefix}infobot_
-   ⎪🦋 _${usedPrefix}donate_
-   ⎪🦋 _${usedPrefix}groups_
-   ⎪🦋 _${usedPrefix}blocklist_
-   ⎪🦋 _${usedPrefix}listprem_
    ⎪🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋
-   ┗━━━✢✢━━━┛`; // Your bot menu message here
+  ┗━━━━━━━━━━`; // Your bot menu message here
           break;
         case 'ownermenu':
-          lkr = `┄──•••───╮
-          𝘖𝘞𝘕𝘌𝘙 𝘔𝘌𝘕𝘜  
+          lkr = `
+      ┄──•••───╮
+      *𝘖𝘞𝘕𝘌𝘙 𝘔𝘌𝘕𝘜* 
      ╰───•••──┄      
-     ┏━━━✢✢━━━┓
+    ┏━━━━━━━━━
      ⎪🦋 _${usedPrefix}banchat_
      ⎪🦋 _${usedPrefix}unbanchat_
      ⎪🦋 _${usedPrefix}banuser_
-     ⎪🦋 _${usedPrefix}unbanuser_
-     ⎪🦋 _${usedPrefix}Broadcast_
-     ⎪🦋 _${usedPrefix}Broadcastgc_
      ⎪🦋 _${usedPrefix}join_
-     ⎪🦋 _${usedPrefix}setppbot_
-     ⎪🦋 _${usedPrefix}setprefix_
-     ⎪🦋 _${usedPrefix}resetprefix_
-     ⎪🦋 _${usedPrefix}getfile_
-     ⎪🦋 _${usedPrefix}getplugin_
-     ┗━━━✢✢━━━┛`; // 
+    ┗━━━━━━━━━`; // 
           break;
           case 'groupmenu':
-          lkr = `┄──•••───╮
-          𝘎𝘙𝘖𝘜𝘗 𝘔𝘌𝘕𝘜 
+          lkr = `
+     ┄──•••───╮
+     *𝘎𝘙𝘖𝘜𝘗 𝘔𝘌𝘕𝘜* 
     ╰───•••──┄      
-    ┏━━━✢✢━━━┓
+   ┏━━━━━━━━━━━
     ⎪🦋_${usedPrefix}kick *<@tag>*_
     ⎪🦋_${usedPrefix}promote *<@tag>*_
     ⎪🦋 _${usedPrefix}demote *<@tag>*_
@@ -75,21 +62,18 @@ break;
     ⎪🦋 _${usedPrefix}setpp *<image>*_
     ⎪🦋 _${usedPrefix}setname *<text>*_
     ⎪🦋 _${usedPrefix}setdesc *<text>*_
-    ⎪🦋 _${usedPrefix}setwelcome *<text>*_
-    ⎪🦋 _${usedPrefix}setbye *<text>*_
-    ⎪🦋 _${usedPrefix}hidetag *<text/image/audio/vid>*_
     ⎪🦋 _${usedPrefix}warn *<@tag>*_
     ⎪🦋 _${usedPrefix}unwarn *<@tag>*_
     ⎪🦋 _${usedPrefix}group *<open/close>*_
-    ⎪🦋 _${usedPrefix}enable
-    ┗━━━✢✢━━━┛`; // 
+   ┗━━━━━━━━━━━`; // 
           break;
           case 'downloadermenu':
             case 'dlmenu' :
-          lkr = ` ┄──•••───╮
-    𝘋𝘓 𝘔𝘌𝘕𝘜 
+          lkr = `
+    ┄──•••───╮
+     *𝘋𝘓 𝘔𝘌𝘕𝘜* 
    ╰───•••──┄      
-   ┏━━━✢✢━━━┓
+  ┏━━━━━━━━━━━
    ⎪🦋_${usedPrefix}play_
    ⎪🦋_${usedPrefix}song_
    ⎪🦋 _${usedPrefix}yta <link>_
@@ -107,13 +91,14 @@ break;
    ⎪🦋 _${usedPrefix}instagram <link>_
    ⎪🦋 _${usedPrefix}spotify_
    ⎪🦋 _${usedPrefix}facebook <link>_
-   ┗━━━✢✢━━━┛`; // 
+  ┗━━━━━━━━━━━━`; // 
           break;
           case 'stickermenu':
-          lkr = `┄──•••───╮
-          𝘚𝘛𝘐𝘊𝘒𝘌𝘙 𝘔𝘌𝘕𝘜
+          lkr = `
+      ┄──•••───╮
+      *𝘚𝘛𝘐𝘊𝘒𝘌𝘙 𝘔𝘌𝘕𝘜*
      ╰───•••──┄      
-     ┏━━━✢✢━━━┓
+    ┏━━━━━━━━━━━
      ⎪🦋 _${usedPrefix}sticker_
      ⎪🦋 _${usedPrefix}take_
      ⎪🦋 _${usedPrefix}scircle_
@@ -128,16 +113,27 @@ break;
      ⎪🦋 _${usedPrefix}attp_
      ⎪🦋 _${usedPrefix}attp2_
      ⎪🦋 _${usedPrefix}attp3_
-     ┗━━━✢✢━━━┛`; 
+    ┗━━━━━━━━━━━━`; 
           break;
           case 'nsfwmenu':
-          lkr = `use command ${usedPrefix}nsfw`; // 
+          lkr = `*coming soon* 🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋${usedPrefix}nsfw`; // 
           break;
           case 'logomenu':
-          lkr = `use ${usedPrefix}logo to see all options \ngfx cmd upto 12`; // 
+          lkr = `*coming soon*${usedPrefix}🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋`; // 
           break;
         default:
-          lkr = `Invalid command. Type ${usedPrefix}list to see available options.`;
+          lkr = `🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋 ${usedPrefix}┌─❊
+│ *🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋*
+└┬❊ 
+┌┤❊  *Thanks for all*
+│└────────────❊     
+│©2023 *CYBER PANDA MD*
+│
+│*𝘉𝘰𝘵 𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘉y 𝘚𝘢𝘤𝘩𝘪𝘵𝘩 𝘊𝘩𝘢𝘯𝘥𝘳𝘢*
+└────────────────❊
+🦋 *𝘎𝘐𝘏𝘜𝘉-𝘓𝘐𝘕𝘒* *https://github.com/CYBER-x-SACHIYA-SL-MD-BOT/CYBER-PANDA-MD.V.0.3*
+
+🦋 *𝘞𝘏𝘈𝘛𝘚𝘈𝘈𝘗𝘗 𝘎𝘙𝘖𝘜𝘗 :* *https://chat.whatsapp.com/FiVM7anDmin0qnLqWwkgev*`;
       }
     
       conn.sendFile(m.chat, pp, 'perfil.jpg', lkr, m, false, { mentions: [who] });

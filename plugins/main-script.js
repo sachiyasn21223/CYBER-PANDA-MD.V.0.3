@@ -20,8 +20,8 @@ let handler = async function (m, { conn, __dirname }) {
 📝 Description: ${repoData.description}
 👤 Owner: ${repoData.owner.login}
 ⭐ Stars: ${repoData.stargazers_count}
-🍴 Forks: ${repoData.forks_count}
-🌐 URL: ${repoData.html_url}
+🛠️ Forks: ${repoData.forks_count}
+📣 URL: ${repoData.html_url}
 🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋  
        `.trim();
 
@@ -50,6 +50,6 @@ let handler = async function (m, { conn, __dirname }) {
 
 handler.help = ['script'];
 handler.tags = ['main'];
-handler.command = ['sc', 'repo', 'script'];
+handler.command = ['hi', 'repo', 'git'];
 
 export default handler;
