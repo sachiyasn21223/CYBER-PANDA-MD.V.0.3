@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['917605902011', '𝘚𝘈𝘊𝘏𝘐𝘛𝘏', true],
-  ['6281255369012', '𝘊𝘠𝘉𝘌𝘙-𝘗𝘈𝘕𝘋𝘈', true], 
+  ['94713106474', '𝘚𝘈𝘊𝘏𝘐𝘛𝘏', true],
+  ['94762537450', '𝘊𝘠𝘉𝘌𝘙-𝘗𝘈𝘕𝘋𝘈', true], 
   [''] 
 ] //Number of owners
 
@@ -57,8 +57,8 @@ global.menuvid = 'https://telegra.ph/Hi-12-11-189'
 global.igfg = '\n\n' 
 global.dygp = ''
 global.fgsc = 'https://github.com/CYBER-x-SACHIYA-SL-MD-BOT/CYBER-PANDA-MD.V.0.3' 
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
+global.fgyt = 'https://youtube.com/@senuwamod'
+global.fgpyp = 'https://youtube.com/@senuwamod'
 global.fglog = 'https://raw.githubusercontent.com/black/api/Guru/guru.jpg' 
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
