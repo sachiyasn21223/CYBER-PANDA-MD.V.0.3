@@ -5,9 +5,13 @@
 __________
 
 ➀. Fork This Repository 
+
 ➁. Update [config.js]()
+
 ➂. Make acount on your host
+
 ➃. Connect Your Repository to your web host site
+
 ➄. [Watch Videos](https://youtu.be/amorCyDpKIo?si=BR2yG4lG4RCHSWRs)
 
 <p align="center"> 
