@@ -34,6 +34,7 @@ ____________________
 </p>
 
 [🐼𝘠𝘖𝘜-𝘛𝘜𝘉𝘌-𝘝𝘐𝘋𝘌𝘖🐼](https://youtu.be/amorCyDpKIo?si=VebhbHXCe53xct3X)
+
 [💞 𝘑𝘖𝘐𝘕 𝘗𝘜𝘉𝘓𝘐𝘊 𝘎𝘙𝘖𝘜𝘗 💞](https://chat.whatsapp.com/FiVM7anDmin0qnLqWwkgev)
 
 
@@ -47,11 +48,11 @@ ____________________
 
 ____________________
 
- ## Deploy on Heroku Video 👇
+ ## Heroku Tutorial Video 👇
 
  
  <p align="left">
-<a href="https://youtu.be/amorCyDpKIo?si=VIw9mxSA5ruc6UKi"><img align="center" src="https://i.imgur.com/6Rh7HHb.jpg" alt="DEPLOY" height="110" width="200" /></a>
+<a href="https://youtu.be/amorCyDpKIo?si=VIw9mxSA5ruc6UKi"><img align="center" src="https://i.imgur.com/fYDmZGF.png" alt="DEPLOY" height="110" width="200" /></a>
 
 ____________________
 
