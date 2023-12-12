@@ -29,16 +29,17 @@
 <p>
 </details>
 <details>
-<summary>ℹ️ How To Update </summary>
+<summary>ℹ📌 How To Update </summary>
 <p>
 </details>
+🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋
 <details>
-<summary>🌐 Support For Deploy </summary>
+<summary>🦋 Support For Deploy </summary>
 <p>
 </details>
 🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋
 
-* [🧑‍💻 Join Queen Elisa Support Group 🧑‍💻](https://t.me/+Fc2vyKYBjFk3ZWZl)
+* [𝘠𝘖𝘜-𝘛𝘜𝘉𝘌-𝘝𝘐𝘋𝘌𝘖](https://youtu.be/amorCyDpKIo?si=VebhbHXCe53xct3X)
 
 * [🦄 Join Public Group 🦄](https://chat.whatsapp.com/BbIpvkRD4qP6xKckb8cpT0)
 
