@@ -1,54 +1,39 @@
 
-import fs from 'fs';
-import os from 'os';
-import fetch from 'node-fetch';
-
-let limit = 500;
+import fg from 'api-dylux'
+import { youtubedl, youtubedlv2 } from '@bochilteam/scraper'
+let limit = 350 
 let handler = async (m, { conn, args, isPrems, isOwner, usedPrefix, command }) => {
-  let chat = global.db.data.chats[m.chat];
-  if (!args || !args[0]) throw `✳️ Example:\n${usedPrefix + command} https://youtu.be/YzkTFFwxtXI`;
-  if (!args[0].match(/youtu/gi)) throw `💞🦋The YouTube link`;
+	if (!args || !args[0]) throw `✳️ Ejemplo :\n${usedPrefix + command} https://youtu.be/YzkTFFwxtXI`
+    if (!args[0].match(/youtu/gi)) throw `❎ Verifica que el link de YouTube`
+	 let chat = global.db.data.chats[m.chat]
+	 m.react(rwait) 
+	try {
+		let q = args[1] || '360p'
+		let v = args[0]
+		const yt = await youtubedl(v).catch(async () => await youtubedlv2(v))
+		const dl_url = await yt.video[q].download()
+		const title = await yt.title
+		const size = await yt.video[q].fileSizeH 
+		
+       if (size.split('MB')[0] >= limit) return m.reply(` ≡  *FG YTDL*\n\n▢ *⚖️Peso* : ${size}\n▢ *🎞️Calidad* : ${q}\n\n▢ _El archivo supera el límite de descarga_ *+${limit} MB*`)    
+	  conn.sendFile(m.chat, dl_url, title + '.mp4', `
+ ≡  *FG YTDL*
   
+▢ *📌Título* : ${title}
+▢ *📟 Ext* : mp4
+▢ *🎞️Calidad* : ${q}
+▢ *⚖️Peso* : ${size}
+`.trim(), m, false, { asDocument: chat.useDocument })
+		m.react(done) 
+		
+	} catch {	
+       m.reply(`✳️ Error al descargar el video intenta con otro`) 
+	} 
+		 
+}
+handler.help = ['ytmp4 <link yt>']
+handler.tags = ['dl'] 
+handler.command = ['ytmp4', 'fgmp4']
+handler.diamond = true
 
-  var ggapi = `https://vihangayt.me/download/ytmp4?url=${encodeURIComponent(args)}`
-
-  const response = await fetch(ggapi);
-  if (!response.ok) {
-      console.log('Error searching for song:', response.statusText);
-      throw 'Error searching for song';
-  }
-  const data = await response.json();
-
-  const caption = `
-┍━━━━━━━ •
- │ 💞𝘝𝘐𝘋𝘌𝘖💞
- ┗━━━━━━━ •
-┍━━━━━━━━━━━━━━━━━━ •
-│🦋Title: ${data.data.title}
-│🦋Link: ${args[0]}
-┗━━━━━━━━━━━━━━━━━━ •
-🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋`
- let vres = data.data.vid_360p
-
-  let vid = await fetch(vres)
-  const vidBuffer = await vid.buffer();
-
-  conn.sendFile(
-    m.chat,
-    vidBuffer,
-    `error.mp4`,
-    caption,
-    m,
-    false,
-    { asDocument: chat.useDocument }
-  );
-     
-};
-
-handler.help = ['ytmp4 <yt-link>'];
-handler.tags = ['downloader'];
-handler.command = ['ytmp4', 'video', 'ytv'];
-handler.diamond = false;
-
-export default handler;
-
+export default handler
